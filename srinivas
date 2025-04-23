@@ -1,0 +1,8 @@
+class time {
+public static void main(string[] arggs){
+int a=20;
+int b=30;
+int c=a+b;
+system.out.println("the Final value is "+c)
+}
+}
